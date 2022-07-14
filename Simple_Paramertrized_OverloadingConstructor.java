@@ -43,8 +43,6 @@ System.out.println("Sum of X & Y="+(q.x+q.y));
 System.out.println(r.x);
 System.out.println(r.y);
 System.out.println("Sum of X & Y="+(r.x+r.y));
-     
-     // Enjoy this free program.
 
   }
 }
