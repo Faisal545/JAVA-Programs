@@ -11,7 +11,7 @@ System.out.println("Enter your Name:");
 n=scan.nextInt();
   int a,b,c,d,e,f;
 
-    a=n%10;
+ /*   a=n%10;
     n=n/10;
     
     b=n%10;
